@@ -1,0 +1,20 @@
+{
+  "name": "slides",
+  "version": "0.0.0",
+  "description": "Chloi Inc.-themed slide decks for various presentation tools.",
+  "private": true,
+  "author": "Kenneth Ormandy <kenneth@chloi.io>",
+  "license": "Copyright © 2014 Chloi Inc.",
+  "homepage": "https://github.com/chloi/slides",
+  "repository": "git://github.com/chloi/slides.git",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slides",
+    "chloi",
+    "keynote",
+    "reveal",
+    "harp"
+  ]
+}
