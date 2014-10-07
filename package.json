@@ -1,6 +1,6 @@
 {
   "name": "slides",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Chloi Inc.-themed slide decks for various presentation tools.",
   "private": true,
   "author": "Kenneth Ormandy <kenneth@chloi.io>",
